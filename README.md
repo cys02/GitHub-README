@@ -14,7 +14,7 @@ git init
 
 ```shell
 git config --global user.name "cys02"
-git config --global user.email "cys02@gmail.com"
+git config --global user.email "cuiyushuai02@gmail.com"
 ```
 
 ### Set SSH key
