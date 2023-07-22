@@ -13,8 +13,8 @@ git init
 ### Set user name and email
 
 ```shell
-git config --global user.name "cyz020403"
-git config --global user.email "cyz020403@outlook.com"
+git config --global user.name "cys02"
+git config --global user.email "cys02@gmail.com"
 ```
 
 ### Set SSH key
@@ -36,7 +36,7 @@ ls
 如果不存在，需要生成 SSH key。
 
 ```shell
-ssh-keygen -t rsa -C "cyz020403@gmail.com"
+ssh-keygen -t rsa -C "cys02@gmail.com"
 # 如果不需要密码，执行后一直回车即可
 # 生成后可以用 step 1 的命令检查生成的 SSH key
 ```
@@ -86,7 +86,7 @@ git config --global https.proxy 'socks5://127.0.0.1:7890'
 ```shell
 git init
 git clone url
-# eg. git clone https://github.com/cyz020403/ML_demo
+# eg. git clone https://github.com/cys02/ML_demo
 ```
 
 ### Pull
