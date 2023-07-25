@@ -58,9 +58,9 @@ cat id_rsa.pub
 
 ```shell
 # 添加项目的 origin 地址
-git remote add origin https://github.com/cyz020403/GitHub_readme.git
+git remote add origin https://github.com/cys02/GitHub_readme.git
 # SSH 地址的情况
-git remote add origin git@github.com:cyz020403/GitHub_readme.git
+git remote add origin git@github.com:cys02/GitHub_readme.git
 # 显示已经添加的 remote origin
 git remote -v
 # 删除已经存在的 remote 地址
@@ -143,7 +143,7 @@ git branch
 
 ```shell
 remote: Support for password authentication was removed on August 13, 2021.
-fatal: Authentication failed for 'https://github.com/cyz020403/GitHub_readme/'
+fatal: Authentication failed for 'https://github.com/cys02/GitHub_readme/'
 ```
 
 原因（参考 [stackoverflow](https://stackoverflow.com/questions/68775869/message-support-for-password-authentication-was-removed-please-use-a-personal)）：
